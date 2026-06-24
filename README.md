@@ -160,5 +160,3 @@ A full hotel booking experience inspired by Agoda:
 | Chatbot | Rule-based intent matching | LLM + RAG + BERT |
 
 ---
-
-## Module Breakdown
